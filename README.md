@@ -15,3 +15,22 @@ The **Practical Series of publications** is a website resource for web developer
 ## lab-brackets-git: How to use Brackets-Git
      
 This is a demonstration (teaching) repository that explains how to manage a GitHub repository from within the Brackets text editor using the Brackets-Git extension.
+
+
+The README.md should contain certain specific things:
+
+    A title
+
+    An Introduction (what the project is for)
+
+    A Table of Contents (TOC)
+
+    Instructions for use
+
+    Installation instruction (if required)
+
+    Links to other documentation (if not all contained here)
+
+    List of contributors
+
+    Licence (unless listed in another document)
