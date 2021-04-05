@@ -19,18 +19,18 @@ This is a demonstration (teaching) repository that explains how to manage a GitH
 
 The README.md should contain certain specific things:
 
-    A title
+A title
 
-    An Introduction (what the project is for)
+An Introduction (what the project is for)
 
-    A Table of Contents (TOC)
+A Table of Contents (TOC)
 
-    Instructions for use
+Instructions for use
 
-    Installation instruction (if required)
+Installation instruction (if required)
 
-    Links to other documentation (if not all contained here)
+Links to other documentation (if not all contained here)
 
-    List of contributors
+List of contributors
 
-    Licence (unless listed in another document)
+Licence (unless listed in another document)
